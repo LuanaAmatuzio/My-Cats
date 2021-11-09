@@ -1,0 +1,6 @@
+objectid,mycats,format,filename,date,subject,location,latitude,longitude,description
+item1,stormi,image/jpeg,stormi.jpg,2019-01-22,cat; looking; camera,hamilton,43.2306,-79.72041,stormi looking directly at the camera
+item2,lucky,image/jpeg,lucky.jpg,2020-12-18,cat; looking; smiling,hamilton,43.2306,-79.72041,Lucky also looking directly at the camera
+item3,babystormi,image/jpeg,babystormi.jpg,2018-07-11,cat; chair; posed,hamilton,43.2306,-79.72041,Stormi sitting on an office chair
+item4,luckyasleep,image/jpeg,luckyasleep.jpg,2021-03-05,cat; asleep; couch,hamilton,43.2306,-79.72041,Lucky knocked out asleeo on the couch
+item5,stormiwindow,image/jpeg,stormiwindow.jpg,2020-09-17,cat; window; sunrise,hamilton,43.2306,-79.72041,Stormi looking out the window as the sunrises 
